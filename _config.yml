@@ -1,7 +1,7 @@
 name: meatclub
 favicon: null
-layout_spectrum: 0.9532721342984587
-typography_spectrum: 0.024559596087783575
+layout_spectrum: 0.24208
+typography_spectrum: 0.50417
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#343339'
+    - '#7d6c65'
+    - '#5b5a5f'
+    - '#acb6b7'
+    - '#af9284'
   brandStrength: 0.8933745552785695
-  lightness: 0.5857679452747107
-  saturation: 0.7391488093417138
-  rhythmicContrast: 0.3907410765532404
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
